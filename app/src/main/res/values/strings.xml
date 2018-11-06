@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Skripsi_Ivan</string>
+    <string name="selamatdatang">Selamat Datang di Aplikasi Pendeteksi dan Penghitung Objek 2 Dimensi</string>
+    <string name="klik1">Jalankan Kamera Untuk Memotret</string>
+    <string name="klik2">Lihat Hasil Foto Anda</string>
+    <string name="klik3">Rumus dan Cara Kerja Aplikasi</string>
+    <string name="klik4">Tentang Pembuat Aplikasi</string>
+    <string name="splashscreen">Selamat Datang di Aplikasi!</string>
+</resources>
